@@ -2,7 +2,7 @@
 using System.Data;
 using System.Windows;
 
-namespace animal_matching_game
+namespace MatchingGame
 {
     /// <summary>
     /// Interaction logic for App.xaml
