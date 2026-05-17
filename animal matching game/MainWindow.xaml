@@ -15,14 +15,13 @@
         </Grid.ColumnDefinitions>
         <Grid.RowDefinitions>
             <RowDefinition/>
-            <RowDefinition/>
-            <RowDefinition/>
+            <RowDefinition/>            <RowDefinition/>
             <RowDefinition/>
             <RowDefinition/>
         </Grid.RowDefinitions>
         <TextBlock HorizontalAlignment="Center" Text="?" VerticalAlignment="Center" FontSize="36" MouseDown="TextBlock_MouseDown"/>
-        <TextBlock Grid.Column="0"  Grid.Row="1"  HorizontalAlignment="Center" Text="?"  VerticalAlignment="Center" FontSize="36" MouseDown="TextBlock_MouseDown" />
-        <TextBlock Grid.Column="0"  Grid.Row="2"  HorizontalAlignment="Center" Text="?"  VerticalAlignment="Center" FontSize="36"  MouseDown="TextBlock_MouseDown"/>
+        <TextBlock Grid.Column="0"  Grid.Row="1"  HorizontalAlignment="Center" Text="?"  VerticalAlignment="Center" FontSize="36" MouseDown="TextBlock_MouseDown"/>
+        <TextBlock Grid.Column="0"  Grid.Row="2"  HorizontalAlignment="Center" Text="?"  VerticalAlignment="Center" FontSize="36" MouseDown="TextBlock_MouseDown"/>
         <TextBlock Grid.Column="0"  Grid.Row="3"  HorizontalAlignment="Center" Text="?"  VerticalAlignment="Center" FontSize="36" MouseDown="TextBlock_MouseDown"/>
         <TextBlock Grid.Column="1"  Grid.Row="0"  HorizontalAlignment="Center" Text="?"  VerticalAlignment="Center" FontSize="36" MouseDown="TextBlock_MouseDown"/>
         <TextBlock Grid.Column="1"  Grid.Row="1"  HorizontalAlignment="Center" Text="?"  VerticalAlignment="Center" FontSize="36" MouseDown="TextBlock_MouseDown"/>
