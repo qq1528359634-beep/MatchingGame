@@ -1,4 +1,4 @@
-# Matching Game (どうぶつ絵文字神経衰弱)
+# Matching Game 
 
 **WPF (Windows Presentation Foundation)** をベースに開発された、シンプルな記憶力トレーニング（神経衰弱）ゲームです。プレイヤーは記憶を頼りに、最短時間ですべてのペアを見つけることを目指します。
 
