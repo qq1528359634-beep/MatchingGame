@@ -5,7 +5,7 @@ using System.Windows.Input;
 
 
 namespace MatchingGame
-{   //只对当前命名空间有效
+{   //using namespcae in an namespace 
     using System.IO;
     using System.Windows.Threading;
     /// <summary>
